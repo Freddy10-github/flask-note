@@ -1,6 +1,4 @@
----
-tags: Flask
----
+
 從 Hello World 開始學習 Flak
 ===
 ## 安裝 Flask
