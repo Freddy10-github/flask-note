@@ -1,4 +1,7 @@
 
+---
+tags: Flask
+---
 從 Hello World 開始學習 Flak
 ===
 ## 安裝 Flask
@@ -44,3 +47,8 @@ flask run --reload --debugger --host 0.0.0.0 --port 80
 ## Reference
 [【Hello word】實作一個簡單的 Flask 入門](https://www.maxlist.xyz/2020/04/30/flask-helloworld/)
 [[VSCode] 將Visual Studio Code的終端機改為bash](https://dotblogs.com.tw/tom5707/2017/03/02/165726)
+
+
+https://hackmd.io/@shaoeChen/HJkOuSagf?type=view
+Jinja template
+
